@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+dataset/*
+models/*
+outputs/*
+!dataset/.gitkeep
+!models/.gitkeep
+!outputs/.gitkeep
+
+.DS_Store
+Thumbs.db
