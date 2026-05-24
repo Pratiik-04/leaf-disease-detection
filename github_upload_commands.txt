@@ -4,10 +4,5 @@ git init
 git add .
 git commit -m "Add leaf disease detection ML project"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/leaf-disease-detection.git
+git remote add origin https://github.com/Pratiik-04/leaf-disease-detection.git
 git push -u origin main
-
-Replace YOUR_USERNAME with your GitHub username.
-
-If Git asks for login, sign in using your GitHub account.
-
